@@ -6,7 +6,7 @@ Aplikasi ini merupakan implementasi CRUD (Create, Read, Update, Delete) untuk me
 
 ### Screenshot: Proses Menambah Mahasiswa
 
-![Tambah Mahasiswa](./assets/tambah-mahasiswa.png)
+![Tambah Mahasiswa](./tambahmahasiswa.png)
 
 **Penjelasan:**
 
@@ -21,7 +21,7 @@ Aplikasi ini merupakan implementasi CRUD (Create, Read, Update, Delete) untuk me
 
 ### Screenshot: Menampilkan Daftar Mahasiswa
 
-![Data Mahasiswa](./assets/berhasiltambah-mahasiswa.png)
+![Data Mahasiswa](./berhasiltambahmahasiswa.png)
 
 **Penjelasan:**
 
@@ -35,8 +35,8 @@ Aplikasi ini merupakan implementasi CRUD (Create, Read, Update, Delete) untuk me
 
 ### Screenshot: Proses Mengedit Mahasiswa
 
-![Edit Mahasiswa](./assets/edit-mahasiswa.png)
-![Berhasil Edit Mahasiswa](./assets/berhasiledit-mahasiswa.png)
+![Edit Mahasiswa](./editmahasiswa.png)
+![Berhasil Edit Mahasiswa](./berhasileditmahasiswa.png)
 
 **Penjelasan:**
 
@@ -51,8 +51,8 @@ Aplikasi ini merupakan implementasi CRUD (Create, Read, Update, Delete) untuk me
 
 ### Screenshot: Konfirmasi Hapus Mahasiswa
 
-![Hapus Mahasiswa](./assets/konfirmasihapus-mahasiswa.png)
-![Hapus Mahasiswa](./assets/hapus-mahasiswa.png)
+![Hapus Mahasiswa](./konfirmasihapusmahasiswa.png)
+![Hapus Mahasiswa](./hapusmahasiswa.png)
 
 **Penjelasan:**
 
