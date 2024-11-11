@@ -58,7 +58,8 @@ Aplikasi ini merupakan implementasi CRUD (Create, Read, Update, Delete) untuk me
 
 - Pengguna dapat menghapus data mahasiswa dengan mengklik tombol "Hapus" di samping data mahasiswa.
 - Sebelum penghapusan dilakukan, aplikasi akan menampilkan dialog konfirmasi untuk memastikan tindakan ini.
-- Jika pengguna menekan tombol "Hapus" pada dialog konfirmasi, data mahasiswa akan dihapus dan tidak lagi muncul di daftar mahasiswa.
+- Jika pengguna menekan tombol "Ya" pada dialog konfirmasi, data mahasiswa akan dihapus dan tidak lagi muncul di daftar mahasiswa.
+- Jika pengguna menekan tombol "Tidak" pada dialog konfirmasi, maka akan dikembalikan ke halaman daftar mahasiswa.
 
 ---
 

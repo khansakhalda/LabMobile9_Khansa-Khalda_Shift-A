@@ -87,10 +87,10 @@ export class MahasiswaPage implements OnInit {
   async showDeleteConfirm(id: any) {
     const alert = await this.alertController.create({
       header: 'Konfirmasi Hapus',
-      message: 'Apakah Anda yakin ingin menghapus data ini?',
+      message: 'Apakah Data ingin dihapus?',
       buttons: [
         {
-          text: 'Batal',
+          text: 'Tidak',
           role: 'cancel',
           cssClass: 'secondary',
           handler: () => {
@@ -98,7 +98,7 @@ export class MahasiswaPage implements OnInit {
           },
         },
         {
-          text: 'Hapus',
+          text: 'Ya',
           handler: () => {
             this.hapusMahasiswa(id);
           },
